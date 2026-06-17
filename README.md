@@ -16,3 +16,5 @@ A clean collection of my Python programs.
 * [Digit Counter](./core_concepts/count_digits.py)
 * [Even Digit Counter](./core_concepts/count_even_digits.py)
 * [Remove Specific Digit](./core_concepts/remove_digit.py)
+* [List Input Handling](./core_concepts/list_input_handling.py)
+
