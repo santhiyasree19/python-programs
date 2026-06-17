@@ -19,3 +19,4 @@ A clean collection of my Python programs.
 * [Remove Specific Digit](./core_concepts/remove_digit.py)
 * [List Input Handling](./core_concepts/list_input_handling.py)
 * [Sum of Even Numbers](./core_concepts/sum_even_numbers.py)
+* [Sum of Digits Equal to Nine](./core_concepts/sum_of_digits_nine.py) - Prints numbers up to N whose digits add up to 9.
