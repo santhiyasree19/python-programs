@@ -7,6 +7,7 @@ A clean collection of my Python programs.
 ### 🔢 Math Programs
 * [Adam Number Checker](./math_programs/adam_number.py)
 * [Armstrong Number Checker](./math_programs/armstrong_number.py)
+ * [Numbers Starting with One](./math_programs/numbers_starting_with_one.py) - Uses optimized range-jumping to find numbers beginning with 1 up to N without sequential loops.
 
 ### ⚙️ Algorithms
 * [Exchange Sort](./algorithms/exchange_sort.py)
